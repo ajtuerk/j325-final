@@ -1,0 +1,90 @@
+#content {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+
+.title h1 {
+  font-size: 50px;
+  font-family: 'Poiret One', serif;
+  text-align: center;
+  color: #F2884B;
+  text-shadow:1px 2px #302A2E;
+}
+
+h4 {
+  font-family: 'Poiret One', serif;
+  font-size: 25px;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
+  text-decoration: underline;
+  padding-top: 30px;
+  color: #F2884B;
+}
+
+.photoheader {
+  max-width:100%;
+  max-height:100%;
+  border: 6px solid #F2884B;
+}
+
+.imagecaption {
+  color: gray;
+  text-transform: lowercase;
+  margin-top: 0px;
+  font-size: 10px;
+}
+
+
+.bigphoto {
+  max-width: 100%;
+  max-height:100%;
+  border: 2px solid #F2884B;
+  margin: 10px;
+  padding: 10px;
+}
+
+.sidephoto {
+  max-width:45%;
+  max-height:45%;
+  border: 2px solid #F2884B;
+  margin: 10px;
+  padding: 10px;
+}
+
+.floatright {
+  float: right;
+}
+
+.floatleft {
+  float:left;
+}
+
+.italics {
+  font-style:italic;
+}
+
+.byline {
+  color: #F2884B;
+  text-shadow:1px 2px #302A2E;
+}
+
+#byline {
+  font-family: Arial;
+  font-size: 15px;
+  text-align: center;
+  font-style: italic;
+  color: #302A2E;
+}
+
+.copyright {
+  font-size: 10px;
+  color: #F2884B;
+  text-align:center;
+}
+
+p {
+  font-family: 'Georgia' serif;
+  font-size: 18px;
+}
