@@ -1,6 +1,6 @@
 #content {
   margin: 0 auto;
-  width: 1000px;
+  max-width: 1000px;
 }
 
 
@@ -9,7 +9,7 @@
   font-family: 'Poiret One', serif;
   text-align: center;
   color: #F2884B;
-  text-shadow:1px 2px #302A2E;
+  text-shadow:1px 1px #302A2E;
 }
 
 h4 {
@@ -31,7 +31,6 @@ h4 {
 
 .imagecaption {
   color: gray;
-  text-transform: lowercase;
   margin-top: 0px;
   font-size: 10px;
 }
@@ -67,7 +66,7 @@ h4 {
 
 .byline {
   color: #F2884B;
-  text-shadow:1px 2px #302A2E;
+  text-shadow:1px 1px #302A2E;
 }
 
 #byline {
@@ -85,6 +84,6 @@ h4 {
 }
 
 p {
-  font-family: 'Georgia' serif;
+  font-family: 'Georgia', serif;
   font-size: 18px;
 }
